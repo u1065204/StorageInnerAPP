@@ -53,8 +53,8 @@
         android:layout_height="44dp"
         android:layout_marginTop="32dp"
         android:ems="10"
+        android:hint="請輸入在此"
         android:inputType="textPersonName"
-        android:text="請輸入在此"
         app:layout_constraintStart_toStartOf="@+id/textView"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 </android.support.constraint.ConstraintLayout>
